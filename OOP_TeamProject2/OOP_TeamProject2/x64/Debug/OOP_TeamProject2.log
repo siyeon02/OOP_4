@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\sy020\source\repos\OOP_TeamProject2\OOP_TeamProject2\main.cpp(534,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sy020\source\repos\OOP_TeamProject2\OOP_TeamProject2\main.cpp(534,1): warning C4267: '초기화 중': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sy020\source\repos\OOP_TeamProject2\OOP_TeamProject2\main.cpp(769,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OOP_TeamProject2.vcxproj -> C:\Users\sy020\source\repos\OOP_TeamProject2\x64\Debug\OOP_TeamProject2.exe
